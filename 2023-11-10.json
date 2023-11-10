@@ -1,0 +1,26 @@
+{
+  "name": "Angel Johnson",
+  "age": 53,
+  "address": {
+    "street": "Gozhuv Ridge",
+    "city": "Eloocopat",
+    "state": "ID",
+    "zip": "72006"
+  },
+  "contact": {
+    "phone": "(718) 401-6774",
+    "servicePhone": "800511375"
+  },
+  "birthday": "1992-01-21T23:05:06.257Z",
+  "ip": "42.135.2.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Duwmec casul ganej wu lu li jop ke de wek cod hek nav hazi zablise viwocef eroumduv udsiza. Juj muhaf cireruh hiradpen fomeuj tuvazap itheoli juta nafon nuwod pa ak jujighoh ijo jiv buc. Ce bamugap pom vojof tahpi dujza hine mebe fammi rirloste uwnezu vasig. Fitarvef mukokte kigod emaciiw bodpewa bah ovi gomifu jur perofehow ujodauli fasehu iwuju ki.",
+    "bio": "Zikofud zaama ludu ivcitzot loputug ojribi sad vu fifzouva kezham ruomzi kehokujal. Do omi ejage da ivaacuve bat isole fapon hu ovmodi lopi te cunuul udufe no zelsaf. Vefod puhuz darcis ivene iskitlam sedwuvom fusfomon ko fohba kide iwvi jefe kovaeji facvo cinhipak."
+  },
+  "apiKey": "61ba9703bf8a88af764693b4783180be49185577eb7faec8e5b06076d89c6f73",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
