@@ -1,0 +1,26 @@
+{
+  "name": "Henry Ball",
+  "age": 65,
+  "address": {
+    "street": "Agujol Terrace",
+    "city": "Zebiju",
+    "state": "MS",
+    "zip": "27501"
+  },
+  "contact": {
+    "phone": "(571) 668-2351",
+    "servicePhone": "800961514"
+  },
+  "birthday": "1982-01-21T23:57:25.880Z",
+  "ip": "44.1.59.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Odge veteajo so cejgel re leodugef pargogi lafnigev ziedfan jelnuen jaw oda fapzagbe ili cuso. Bomug bokdisigi foszi lehoh nanod mu cojwudul pe di ku nesop tar edudi rimi ra zarnees. Opodobuf volneg vufici pofejwe fera diel nuid mertoku hodec cih zuca ujhuc robeuko ekmom awna putnit ziabi. Gejdi san ne eku sek begud bulaca comhetac we cozusho susaw abrakkun. Jir zuzer fez aj pi ojutunu miwkez ice vewu dasatzo hu ij wisepi carud su ika uhdir.",
+    "bio": "Atuhaw soczo pu vizkipe ezijuigo ohadah ol sofavpo sit wokuh id ilhewe dewfan ravban neni. Eruci fafav edta ohwi dukaap tu elje kac wonehu erwe zizi upi uvusunlu kehwukpe hap fa. Jinla ib zap abtiem tizteg ewpusub lat diuw te pibpa kiron riforil ipdobu edoiw. Tivri gaw rekkirti kedluta rugejo buclugij is gulcifnu lided ih ni bidtobiwi. Lih pe ni awme ose ki sahmir ad tasadwon upo atovahop duvwifzo zaro sol zelewcop ga gaapaek."
+  },
+  "apiKey": "470fa924d40e46a79d0b2c27a19bed0fcda3c2ca7e06e3d8e0ca1eff2e8a2a0c",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
