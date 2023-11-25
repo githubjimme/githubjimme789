@@ -1,0 +1,26 @@
+{
+  "name": "Andre Mathis",
+  "age": 28,
+  "address": {
+    "street": "Miehi Way",
+    "city": "Lowidlob",
+    "state": "WY",
+    "zip": "08953"
+  },
+  "contact": {
+    "phone": "(533) 732-6936",
+    "servicePhone": "800927322"
+  },
+  "birthday": "1984-09-07T16:01:13.978Z",
+  "ip": "82.248.183.102",
+  "foo": "bar",
+  "profile": {
+    "about": "Kivboon kouna ebe von uvuehe tasjuoba hezacew jedev cak elo ba et tacovru mohir raplothah dibah. Cebwus honne fajuibu fesfo casu cecpoc ma pupod mocdecoh unotufu upkeka hocevsuj anazehizi jugarhan kihuwe ja as. Bi dekifoce mocel hozumaj gopuvu suipe piv ru gupgokzif ijpe tizomsuw ibi ji ci rurza lihuzu ede. Padmig ibbip ju kew japsu nen pab sanhefuh zucsesel bil ocerogaz muvdewa gab.",
+    "bio": "Nu lekena ilicehe se vagdis tuncahuh jutlo rad fapas fi jigciriz meviw sadjuz pumulo duhnecvi. Alero zupfulzit faeta apacoj wok hed uw sego gabolko nawed babjogvo gavhig pa tevo. Muwefu wibag vipente tog febni red sivvaciz totkuid ud cedjivra odaarece sa pof osda. Loaro tudno jezopim si ofso kewofiv kudo kuk satnaner gidjab onzog hus pis rud cikra. Hah wil olilu newefawo fopsi facehej tolniere fuob titifaz dukragsup zow fi voav ac."
+  },
+  "apiKey": "9df2359f5e46b280c1f8ead197492c6c5f7612e7ea6e500eaaae463ff39239c6",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
