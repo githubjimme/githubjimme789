@@ -1,0 +1,26 @@
+{
+  "name": "Nathan Larson",
+  "age": 25,
+  "address": {
+    "street": "Dijol Square",
+    "city": "Imgisa",
+    "state": "CA",
+    "zip": "79217"
+  },
+  "contact": {
+    "phone": "(979) 335-7151",
+    "servicePhone": "800687279"
+  },
+  "birthday": "1970-05-31T01:13:25.273Z",
+  "ip": "196.97.0.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Ismu cefbiggi ogedig aroid si ibo pirig bufkiba wiwkiiba di ninol amaroru. Hob la ebzaf ofubeuwo akjug zim uga imef husdolis livgose vikuz vu peni ej dehebner bo muha. Ik ejubo dopovu inugav rup izderci opu ojuki fihjuj wa zildu botpilu cuzel bi du ubedi nevazfo huzi.",
+    "bio": "Rib kofve jojop gejikic fampipe dos zo wu catwe fiba pobfedneh zu uv gub doowi wefimi buhso ebwecni. Ge tijjo tiwzalob be se enwud wi gu zetnofcim aforepfu lihpetuz ipagin tomun. Hu ep mozocuni zurega siccipef hije uruh rufo ozo po luj eshizej ha vatij. Ba emelu kah poal duwonvus vif haacra oni bififin ju bisinud johmaf pigak ohwuzgus ifmaeze weofcit moj uni."
+  },
+  "apiKey": "25872bd99f99f42c8056f5582c13a035e292b0a01c7f713468f3df306e627f07",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
