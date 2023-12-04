@@ -1,0 +1,26 @@
+{
+  "name": "Belle Singleton",
+  "age": 34,
+  "address": {
+    "street": "Disuw River",
+    "city": "Sapaga",
+    "state": "NJ",
+    "zip": "50966"
+  },
+  "contact": {
+    "phone": "(310) 995-6164",
+    "servicePhone": "800958525"
+  },
+  "birthday": "1977-07-20T12:11:07.066Z",
+  "ip": "168.24.114.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Omedir bec fabtazdid ceputi ri ecail fo izeoh fivonwo ge jumfurcub jugesci mihera zu mukgope mumbaej ripda gobav. Faad da daec su wukimug ihulah penukso ulunohon vi non ni azjamcek iba siig utuka. Gogzep kifpuwvil zivutza cota pew fozi nibli or puwuz fur hebonhon ov. Lopa ezgalhe odnumzo vin er ro ebo rifebdu wukajlu siasnud kukmok gewnu.",
+    "bio": "Ju babfuftit cet sapid iliiha hajev adibe wafi rol bobekcol ja owewoba sokaji cu wopmuk afja jabhuwdon. Hanof bavu zicjomba hopkofi sare povsupnoz iziri zicegor ja dazizzaf cior nokbarhe. Huac oto adozutor bo heajoza cawaga ih vuh deojijek lud fe ovru elugahac ur."
+  },
+  "apiKey": "666d9997c8677b3dbab80c0561039f3fe59b5311316dc34fcb76b41f6a8d35c9",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
