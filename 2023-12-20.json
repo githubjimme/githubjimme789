@@ -1,0 +1,26 @@
+{
+  "name": "Ellen Malone",
+  "age": 41,
+  "address": {
+    "street": "Sogma Mill",
+    "city": "Pesguuh",
+    "state": "GA",
+    "zip": "21398"
+  },
+  "contact": {
+    "phone": "(377) 742-6978",
+    "servicePhone": "800145318"
+  },
+  "birthday": "1986-03-27T22:56:04.353Z",
+  "ip": "32.135.67.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Su ti ug za kipti oka ato eruub oswuk ogve risetpot rik leavvuv difudo dudcub nu ko. Tokorah adne fuule jag neobi deredcu len ko fev ka aricut gero oro. Gehidbe aw tizewuv wesgu biawe suima vuk huwi namdudsom upopiwe gisi kahna lu ir icnosgih.",
+    "bio": "Zu pebivuha iwciv fethiw jil keuni jizehamos ef oceedu uh wako ha pijzotud lil lafge. Iz dorida dem jo bafkuhen gimwazene hivetug novkohalo tikip for pat giso mutem gez fukap mawoba wo. Uvijalu it bi nabwosbe jifroow vobulzub noelen pudupaw poatmej umusu ibfudic pi kut fevok ilezarug mocogco. Pulwuj saged vimedtij foip none vepomdur izuralo vejat kifen aku lan nijit."
+  },
+  "apiKey": "0f3198636c3c6c0c602d432708a5fe70459712215013f37ee1c86a4fba17b692",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
