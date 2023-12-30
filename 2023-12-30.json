@@ -1,0 +1,26 @@
+{
+  "name": "Ina Cook",
+  "age": 60,
+  "address": {
+    "street": "Robla Turnpike",
+    "city": "Owhuwi",
+    "state": "AR",
+    "zip": "63601"
+  },
+  "contact": {
+    "phone": "(508) 320-9894",
+    "servicePhone": "800331288"
+  },
+  "birthday": "1985-05-30T06:49:57.985Z",
+  "ip": "54.99.111.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Gicwawpa votunzu ko mo kohfeju wukapbi ul sa vij dajide cedeef ufjuwip hi mu ofe nitogzu cujiza se. Tuhip ogugo hik gihvip fab pisirbor afa biv pu vavetumi se diid hepi. Efairusom bu liwumo fuvatu sa va nahutofa afigtoh jakwuso fulvo ibumi lomtin suzuv zaved je sav. Ujerefeg biv emele takwuk dobha ciofo uw jojje zodowiza bol de kom. Du vozwa hudofaz kalilhas un fucfi co date zerul hifrog ede fojus.",
+    "bio": "Tet loksafet sum azusooko erjuuz meveur ufeeneebo fubjauvi tuhauf ka gehej ziame vek ethad mo korah. Hifke avofugur vaf pulumvo awatevlom ivwewi pe op ot duvbij wim pocvir beeb jata ru muguef fu nemtu. Sivab hertenu ep wib niubzi narrel hu sod idufegki pefura ne gieli vowufha. Baipaedo pubapel sinref apa nov kudlokceh kutnucan ruflo kakwit jebfo vazo ceura ob rigduspum ejetakmij en ficligru. Joisgob ahupolir buf bizuncir gaklijuf vonsod wajhu ju himwiogi efuhep pep oji."
+  },
+  "apiKey": "d0cbc422982e3203e763f776a51d7211451c051f9ca8aa2a459a7e28353b8cb2",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
