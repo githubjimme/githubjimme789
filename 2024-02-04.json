@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Becker",
+  "age": 50,
+  "address": {
+    "street": "Igno Ridge",
+    "city": "Ukecanor",
+    "state": "CA",
+    "zip": "86684"
+  },
+  "contact": {
+    "phone": "(416) 240-7655",
+    "servicePhone": "800692872"
+  },
+  "birthday": "1972-10-05T13:32:22.730Z",
+  "ip": "115.97.6.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Ri ninhow iblig artur wuw gevze settarroz gizvu bozdab mu gotogepi hew. Ejor wafose jir mitmil bepofe non jo deb ragik do afu micapaj. Ta beffaj difwar ac vatdirdan du miwvepga puac poazu vo wo tuhunuse di. Za ulubueli culoohe caih hub bunoc ewwamic riof hot sasor zobvog oneadju la jujiwi. Dag or kago beco li uhaospus podhostu rac ca dewas rupaup jonvevsi wecebzew.",
+    "bio": "Mojewe jud ohnekji iwebzo jebfel ko maz cu ze pifofi viwe esdo eckonre puc. Simos owpefvi deha vom lelfe dejoika kangev sapma cenop avko gomuvi ku. Tozugkoh rohbise da dus hidad tufge za wumap gepgevmu oca inan vawmihga vare bafge win ne."
+  },
+  "apiKey": "e2e0847eab9cfe523825bfedef01202b8dd653bad2aba244b8a79636a58b2a93",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
