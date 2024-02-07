@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Perry",
+  "age": 29,
+  "address": {
+    "street": "Kihrak Pike",
+    "city": "Fifulru",
+    "state": "MD",
+    "zip": "75766"
+  },
+  "contact": {
+    "phone": "(565) 945-9651",
+    "servicePhone": "800912723"
+  },
+  "birthday": "1988-08-11T18:56:07.462Z",
+  "ip": "147.165.197.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Puf wi zi jo pelloke buhi bora ovhaz dokirbi lih cahlo dejok eczevdi lote fu gibew enume viso. Cobzo upismid lugego iletockuv sade re itouz sokcepaf tihafzil luh cumtonja og gabzuwru sik ep zo dawovcak. Putaza une kopa minpo si taw vovsin sire cultifu cedabric ta mete et riaki agufopo. Ligi tekrep tuc vo keze pizsu limgalad va ubute peras adicubufa ez simibiik ovo wuvten ciuzarab lihpete. Ojiwavu puhzazivu totopud tugak farecun iroofi na fehonep ojihaaw zofbu gicuvmo dupi. Anuwi wa ja ewoweigu so vig ob ifirebog egu rew cosraksu surgupgew denufnu dilaluva gif pir. Narzo ova mejacruk suk wet ogora honfovoz lifivuk uletamfo sak woraw fu jar pane.",
+    "bio": "Rotketic tuk tisu wije iduah akeelo ohnoah ag heggo fifodube ovodmer wi ipdearo zuur. Vudoj edoto kedo agaroda buftuwle favul ihaj jilkala rakaril pul simulafub koog sitojagu ho evi. Jelili hav tolrirbos imva ronekeru ileh cenku sib bipekmuf evba kuweh co demmato luluguba. Guhzij modeh weworifup haz mil zak jemacut jab vo we heshalsol wojov je uvvut bag. Onemev opduj eza ug vacas legdavfa ocozig kup pervosem fu ziwulat liw. Dep cizza di tan ku rasad jup vavfi azhi dehdoraf er ufzu owowhat nerace kub bi."
+  },
+  "apiKey": "27e019aece7697f52eadcf4c9046e07f8d397e41487bd891bfa95485eef37b29",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
