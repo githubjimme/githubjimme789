@@ -1,0 +1,26 @@
+{
+  "name": "Ollie Reese",
+  "age": 37,
+  "address": {
+    "street": "Wamide Turnpike",
+    "city": "Orsalgeh",
+    "state": "HI",
+    "zip": "18723"
+  },
+  "contact": {
+    "phone": "(315) 985-1712",
+    "servicePhone": "800347294"
+  },
+  "birthday": "1999-02-15T20:47:35.343Z",
+  "ip": "3.71.144.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Gusal nageru vu okhebi nifod lihoki vubjoaf duom nafgu ivusewopu iful ohi movjaljog zinos mocuv bob cimibeja. Lutticdev asirokju akabej tiwiog anmumor von ate azedaz topdo vozuntik fuwnulo kika. Ekzejnul sikkim bem okzuguv suf zojepep pemhu ozonuw ibiuweah zehsa eb lu pib padu ahakobsim zumoig nudfaswug.",
+    "bio": "Icioz duhnoj cetu vasagonud mig upnetpuj pik top vehadup bi wunnebu mulofwer gezabbif li rodagko didadeg. Emi ve besurtib zup gaw ziiti itbecif lunu za ebaka ehweb hibok wus bon borletic. Fino hum vec udoihu tukis fi mowur zolipob regov dif mipciv lah bobugva kafcocif neb ceb eno."
+  },
+  "apiKey": "c3a8e74aa7c8c02763708d145401d283675b42343ca00cc25f45ebe0573157e7",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
