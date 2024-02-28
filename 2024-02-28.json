@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Brooks",
+  "age": 54,
+  "address": {
+    "street": "Imoad Plaza",
+    "city": "Laudug",
+    "state": "TN",
+    "zip": "30173"
+  },
+  "contact": {
+    "phone": "(441) 991-3382",
+    "servicePhone": "800468273"
+  },
+  "birthday": "1976-05-26T10:00:00.757Z",
+  "ip": "155.226.9.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Zumo ci fajgacjun opelaava kih adedit na ipeagi jovdirrez ole todwuc irveh wivvateti umemitko ho nipve sujkek bac. Pedfuok zese vezre nef nebkizica ikha nufnomepo ut let lod adebogup ce ag. Se jozi miskuada ze noucohi pedol dugme huwavo vo tijebi oloruladi dotza ogba ruf tutecu. Ukicih atiepacek fugiset duspa isfeb ohwu rig zinvi meahajad porigur ole ti kihu wemuowa cogow noge lizaifa. Nis tugpol olukepol kifomhob kidzudu kacor awuosdus deewe fubaw fu irdun dolalum zo bobmi dos. Jucda fop agebuib parse fage gima omcompus suut junsuvi megedbi bokot ciil argu hucucta mafbi.",
+    "bio": "Fid onogewti irmisde wet ihut tuuw nusutu foneruec pon ah lulatir gamir uwseg baf. Zohhebu kerla eczipo tem pur dohho nat mupotoiv dowduhuw sug ci eka ahmi bagke osevug muzcuk vapofu. Ku na wuzvunji kegif fic owo sakus to co roma tam orviv fedloigu mama cun nortode filuvlu vogiku."
+  },
+  "apiKey": "94ce60f5982ef40b044bfe384103785ff9c97496860ec9f04b4ebb0ace5d6660",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
