@@ -1,0 +1,26 @@
+{
+  "name": "Dennis Stevenson",
+  "age": 39,
+  "address": {
+    "street": "Pordi Park",
+    "city": "Litnuiv",
+    "state": "NJ",
+    "zip": "04649"
+  },
+  "contact": {
+    "phone": "(251) 888-8045",
+    "servicePhone": "800623642"
+  },
+  "birthday": "1994-07-31T19:34:52.844Z",
+  "ip": "135.237.127.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Ezge romkus ozgawva ta mavtak fovteamu casrus ru geimvud kapig gewig ahve rigugo. Civ pav onouc ri ocaju wakor usihuzaz votu ki nupew uzefol fiwasip. Idi akuvu tugpon uw reutu kesir vofnoc moozro zilus laz wukowa bil. Vudvelup waviwrub lus fiijesec uwohi wu ewetit luto zatobra dicani be tavrih epalaz nogmef odilidoc.",
+    "bio": "Izasim rezupvet gasfavkud jijieji pok tubis ejuj hetop weriluler humotho owuwuc tasa nijiwca. Recnihbeg gonreoj bozubri peov belom fu gig dehes fizta calafto mef il. Etzeoli ucunoji totze opu pu at ke we op riuvo apusavoje gawe cezun ra ugogo. Wicticov oztuvcih bi wimalpi wogioh pablos bipo ecan hejijbi bodefa cuveg jemrebi."
+  },
+  "apiKey": "cde65a89ffdd149d23977ab23b030692096f13c0d3f93b092c7153874089728a",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
