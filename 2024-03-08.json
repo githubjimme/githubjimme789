@@ -1,0 +1,26 @@
+{
+  "name": "Marian Briggs",
+  "age": 22,
+  "address": {
+    "street": "Carbi Way",
+    "city": "Komabit",
+    "state": "MS",
+    "zip": "42795"
+  },
+  "contact": {
+    "phone": "(629) 705-3300",
+    "servicePhone": "800812265"
+  },
+  "birthday": "1964-08-14T18:03:54.593Z",
+  "ip": "119.100.100.177",
+  "foo": "bar",
+  "profile": {
+    "about": "Cig panfumado vu alu molon kenbezal teblaj wif de wuvdicer fiz ripufe to kihudedi piconi atenoho. Cigbi liz omsol botjuriw ir lok cogo ruviloewa fe ka benhar gomrouk nugihi elapeuni du. Otoevzi ca zo pohi ac pomje sufav busduzigu diiw ra omeaza dodleimi. Cokaow bojluzub gafijuzeh tawze puskuedi nacov penil guvimiro eho bir memawol job ricvepgu at erjopfo wef doij ihasebaw. Sevpuhos du uvi zucoce vigiled ru meh kikcutka metsib hihle usuvahan fo unebevven zaf wipfijtek awlamfa epsi kaurno. Hufpibfo faf gutefmah ulobi lir kol imebit zazrujmib fahu ug pa sa piguhut fu higedrab suunci.",
+    "bio": "Fec cuwpon siwe bevhitiz voj anmen herok jo siw torok ruvabewo epere rohnu. Fe je finricsi lumimme atiko vovuzte zatujod rofo zofbe li fecwana rife itihala con rif dir vif va. Ila ujhogic gujetel jafenzi folgehat zafijop or domwes goni vudifkip sowuksir wesu rul essu."
+  },
+  "apiKey": "e4e25164cc5c219f6e3f0d0ad14ba1a3e20aa9c77e355b0bfcc6983243577e2e",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
