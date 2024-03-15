@@ -1,0 +1,26 @@
+{
+  "name": "Ethan Garza",
+  "age": 32,
+  "address": {
+    "street": "Cime Extension",
+    "city": "Tuzifca",
+    "state": "LA",
+    "zip": "04816"
+  },
+  "contact": {
+    "phone": "(817) 976-3006",
+    "servicePhone": "800936496"
+  },
+  "birthday": "1959-01-07T03:18:23.226Z",
+  "ip": "163.243.192.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Ap todut itju sizbipsor uju kas du ehacisu bucvudla balen ajwa fuam gucvazu hoevma. Kof feta kocab dubik ewle fif us uvefi sol rugpa zir kiova ipfel. Seb kombu fijfimdu wotow gu logad anomovu kecenub wenbaez ranet darfa eccil nivod ug kad eminupzoc fe.",
+    "bio": "Cin op ipo sew nowhoov owi zowogsiw ujisa lodo ejesij di zo age ruzgoz iba wu gactoote huslaiz. Huni gisbe gefcevha zop leezetid ahu wepadad ammefi siral gut kulev wukah sis. Un zo zipca ojamijim oz potelah uh kab wuzzuheg gig er ricom."
+  },
+  "apiKey": "97aa1810bcb8aef0a8c57c8d7011de1915f55943736c22a61639eff33eee555e",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
