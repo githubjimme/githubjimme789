@@ -1,0 +1,26 @@
+{
+  "name": "Mitchell Lynch",
+  "age": 19,
+  "address": {
+    "street": "Kimjir Circle",
+    "city": "Wilwimpe",
+    "state": "MA",
+    "zip": "31929"
+  },
+  "contact": {
+    "phone": "(744) 503-5684",
+    "servicePhone": "800434653"
+  },
+  "birthday": "1985-08-28T05:29:49.649Z",
+  "ip": "159.157.84.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Le nawaere nonfabuw wopiwe jih necjumufi diaga mez muocucod siluru epu doahdub bih gi saza if nebjicepe. Zaju nuwkorla enijuuv retgad tezu cefefe zedad nufa ashevac avu bineficop ewfuknid sanih pembizcib ijzev. Ezulej ususizo mossuw efupa weg jocupo suwkejhow gajpis zolviklo pig wewpazi poz gocar ijuetuvi.",
+    "bio": "Izuukokup rapilec defcufih cuosso negha ava ruanwaf urrubud ce uresehrop uf va pebsahec muvop. Wo seve fi omjav hi se pambuz fof vaagvoj pomgo pe gac. Vino vi bev foap iteihujic id galfog ikocukeg di honihzot mame ujijuj jek pidamu jon piileho."
+  },
+  "apiKey": "15e5fca944d9136b463a423426a942ec24b6d555d08b0c277cdcdf83e6498694",
+  "currency": {
+    "code": "SZL",
+    "name": "Swaziland Lilangeni"
+  }
+}
