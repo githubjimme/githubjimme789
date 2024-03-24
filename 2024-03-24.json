@@ -1,0 +1,26 @@
+{
+  "name": "Frank Douglas",
+  "age": 36,
+  "address": {
+    "street": "Daha Way",
+    "city": "Towzabes",
+    "state": "ME",
+    "zip": "06915"
+  },
+  "contact": {
+    "phone": "(312) 459-5178",
+    "servicePhone": "800954848"
+  },
+  "birthday": "1975-03-27T02:06:31.827Z",
+  "ip": "197.195.48.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Gabi ne jiki riletcon wo dah es ivotoseg bihwu lek tohfahi fa. Dene kijonrel tita karrub lekisfo nub sip lofrot ujude muka du waselu co nof. Kokzu muszi cig momudem dihhi jawec ipuojsiw iwari vil hapfussa fudap ti.",
+    "bio": "Deal zecrasaca najgov siskol kokinor uzice pufudriv foter zevijasa kazvujfo bisje butgav. Kemojow amujor uhoce ec uratci ni gic agenumut emome vekeogo bunina soer ozzaz sez ozi rew jacepa. Veitgo ewul dil ruhup oh sanru veza vowub ume gov ipteeku tir maglah ez ivdenow odihlos jew. Gera epoosuzon ijekojhev su abpemsuh wursi mulfa ti hur corhi dawoh wiajeze duji agsec jobna alatofva pacimki nugof."
+  },
+  "apiKey": "d06298eaaea759b73be4b658721417a7f7e9948bfe3f6ab205003948ea5c83e8",
+  "currency": {
+    "code": "STD",
+    "name": "São Tomé and Príncipe Dobra"
+  }
+}
