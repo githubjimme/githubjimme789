@@ -1,0 +1,26 @@
+{
+  "name": "Clarence Castillo",
+  "age": 23,
+  "address": {
+    "street": "Wuhdo Manor",
+    "city": "Elalde",
+    "state": "PA",
+    "zip": "71614"
+  },
+  "contact": {
+    "phone": "(786) 343-7282",
+    "servicePhone": "800979224"
+  },
+  "birthday": "2002-12-01T06:23:57.560Z",
+  "ip": "204.232.183.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Aktac efefojzo se doh atu lif pej nupfot heb buf ped tim usifutduz bablimeb wu onohib fawed inko. Zowlizo ijvo beb icma ef wonhi ren conel epuwe wov mec uhodoze bafmi vifado vujemos ma jucta. Lucwe ofoti nahisu noz vodut caz uvuzoeg digribto adura nuf juzmu ibeuzute ecacalnaf zoan iru sucve.",
+    "bio": "Buzasu wenuseze gom gitugsa dece as hehmal ce wotic mujwolce jan bebezodu ovetevof huvpu ehjahar. Ku welug idogci pu de ojcom nenubu nikna mec jervotjir foten hak utucub ba miireruw nebjoali seeru. Akipar lece vuduhuna natciso viomovo jitse bi hu wubo zusod ca hubo cuga aw. Vuvejogej ovadoide ogi irpufrus akzo surudu puvwidci uszeep taj abci lebwep sot."
+  },
+  "apiKey": "c726f94472b8d1fb6571bc31315e9efa5da8b053c3e66984ed6026cf67b36714",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
